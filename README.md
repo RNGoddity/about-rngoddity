@@ -54,12 +54,13 @@ At RNGoddity, **eVectors** are used daily to:
   <br><br>
   <table>
     <tr>
+      <td></td>
       <td align="center" width="80%">
         <p><em style="font-size:1.1em;">“The dice fall where they may — and may serendipity catch your gaze.”</em></p>
   </td>
       <tr>
           <td align="right" width="80%">
-        <p><strong>— RNGoddity</strong></p>
+        <p><em style="font-size:0.7em;">— RNGoddity</em></p>
           </td>
     </tr>
   </table>
