@@ -85,9 +85,13 @@ The systems roll the dice — but meaning only appears when **...AHA!**
 
 ---
 
+🎨 We're looking for artists and collaborators who see beauty in systems and rhythm in chance.  
+If that sounds like you — roll the dice and reach out: **rng.oddity@gmail.com**
+
+
 ## ⚙️ Contact & Links  
 
-📧 **rngoddity@gmail.com**  
+📧 **rng.oddity@gmail.com**  
 🐦 [@RNGoddity](https://x.com/RNGoddity)  
 🕹️ [Itch.io](https://itch.io) — games and prototypes  
 💾 GitHub — all active repos live under this organization  
