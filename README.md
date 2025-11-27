@@ -11,7 +11,7 @@
 
 ---
 
-## 🎨 About  
+## About  
 
 **RNGoddity** is a microstudio exploring the edge where structure meets chance.  
 
@@ -20,7 +20,7 @@ We build modular frameworks, painterly game worlds, and local-first tools — al
 
 ---
 
-## 🧩 Current Frameworks  
+## Current Frameworks  
 
 - **Essence** — *Godot (GDScript / C#)*  
   A data-driven, modular-first framework for any game — like a backend game builder.  
@@ -29,6 +29,20 @@ We build modular frameworks, painterly game worlds, and local-first tools — al
 - **Bedframe** — *Python*  
   Local-first, lightweight web tools, creative coding environments, and tiny servers that run forever offline.
    
+
+---
+
+🎨 **Hey — you know anyone who lives and breathes art?**  
+We’re looking for an artist who sees worlds through color, form, and theory — we would love to see your artstyle.
+
+If that sounds like you — roll the dice and reach out:  
+**rng.oddity@gmail.com**
+
+💌 *Need a template? Just copy this and send it:*  
+
+> Hey, I saw you were looking for an artist for world-building.  
+> I have experience in **[x, y, z]** — here’s my portfolio: **[link]**  
+> Excited to hear more about the project!
 
 ---
 
@@ -91,7 +105,7 @@ At RNGoddity, **eVectors** are used daily to:
 
 ---
 
-## 🧱 Frameworks at a Glance  
+## Frameworks at a Glance  
 
 <div align="left">
 
@@ -138,20 +152,6 @@ At RNGoddity, **eVectors** are used daily to:
 ---
 
 ## 📚 Writing & Research *(coming soon)*  
-
----
-
-🎨 **Hey — you know anyone who lives and breathes art?**  
-We’re looking for an artist who sees worlds through color, form, and theory — we would love to see your artstyle.
-
-If that sounds like you — roll the dice and reach out:  
-**rng.oddity@gmail.com**
-
-💌 *Need a template? Just copy this and send it:*  
-
-> Hey, I saw you were looking for an artist for world-building.  
-> I have experience in **[x, y, z]** — here’s my portfolio: **[link]**  
-> Excited to hear more about the project!
 
 ---
 
