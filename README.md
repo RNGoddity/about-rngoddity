@@ -141,8 +141,19 @@ At RNGoddity, **eVectors** are used daily to:
 
 ---
 
-🎨 We're looking for artists and collaborators who see beauty in systems and rhythm in chance.  
-If that sounds like you — roll the dice and reach out: **rng.oddity@gmail.com**
+🎨 **Hey — you know anyone who lives and breathes art?**  
+We’re looking for an artist who sees worlds through color, form, and theory — we would love to see your artstyle.
+
+If that sounds like you — roll the dice and reach out:  
+**rng.oddity@gmail.com**
+
+💌 *Need a template? Just copy this and send it:*  
+
+> Hey, I saw you were looking for an artist for world-building.  
+> I have experience in **[x, y, z]** — here’s my portfolio: **[link]**  
+> Excited to hear more about the project!
+
+---
 
 
 ## ⚙️ Contact & Links  
