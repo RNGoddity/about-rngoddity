@@ -40,7 +40,7 @@ If that sounds like you — roll the dice and reach out:
 
 💌 *Need a template? Just copy this and send it:*  
 
-> Hey, I saw you were looking for an artist for world-building.  
+> Hey, I saw you were looking for an artist for world-building or characters.  
 > I have experience in **[x, y, z]** — here’s my portfolio: **[link]**  
 > Excited to hear more about the project!
 
