@@ -111,9 +111,9 @@ At RNGoddity, **eVectors** are used daily to:
 
 <table>
   <tr>
-    <th>🧩 Framework</th>
-    <th>⚙️ Platform</th>
-    <th>🎯 Focus</th>
+    <th align="left">🧩 Framework</th>
+    <th align="left">⚙️ Platform</th>
+    <th align="left">🎯 Focus</th>
   </tr>
   <tr>
     <td><b>Essence</b></td>
