@@ -100,7 +100,7 @@ If that sounds like you — roll the dice and reach out: **rng.oddity@gmail.com*
 
 <div align="left">
 
-☕ Made with curiosity, coffee, and carefully constrained chaos.  
-★ *Star if you believe rules and miracles can coexist.*  
+☕ Made with curiosity, coffee, and carefully architectured chaos.  
+★ *Star for your next roll to be a natural 20.* 
 
 </div>
