@@ -8,6 +8,7 @@
 
 </div>
 
+
 ---
 
 ## 🎨 About  
@@ -15,6 +16,7 @@
 **RNGoddity** is a microstudio exploring the edge where structure meets chance.  
 
 We build modular frameworks, painterly game worlds, and local-first tools — always on the cusp of potential. 
+
 
 ---
 
@@ -25,7 +27,8 @@ We build modular frameworks, painterly game worlds, and local-first tools — al
   Define systems, data, and logic declaratively to assemble emergent gameplay.  
 
 - **Bedframe** — *Python*  
-  Local-first, lightweight web tools, creative coding environments, and tiny servers that run forever offline.  
+  Local-first, lightweight web tools, creative coding environments, and tiny servers that run forever offline.
+   
 
 ---
 
@@ -41,6 +44,7 @@ At RNGoddity, **eVectors** are used daily to:
 > **Important:** Every line of code, every piece of writing, and every creative decision is authored, reviewed, and approved by a human — the **eVector Project Director**.  
 > eVectors assist in reflection and iteration, but they never replace human intent.  
 
+
 ---
 
 ## 🪞 Philosophy — Controlled Randomness  
@@ -52,8 +56,11 @@ At RNGoddity, **eVectors** are used daily to:
     <tr>
       <td align="center" width="80%">
         <p><em style="font-size:1.1em;">“The dice fall where they may — and may serendipity catch your gaze.”</em></p>
+  </td>
+      <tr>
+          <td align="right" width="80%">
         <p><strong>— RNGoddity</strong></p>
-      </td>
+          </td>
     </tr>
   </table>
   <br><br>
