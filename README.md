@@ -44,9 +44,10 @@ At RNGoddity, **eVectors** are used daily to:
 ---
 
 ## 🪞 Philosophy — Controlled Randomness  
-
+<div align="right">
 > *“The dice fall where they may — and may serendipity catch your gaze.”*  
 > — RNGoddity  
+</div>
 
 Randomness here isn’t chaos; it’s collaboration.  
 The systems roll the dice — but meaning only appears when **...AHA!**
