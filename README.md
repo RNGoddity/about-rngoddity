@@ -45,7 +45,8 @@ At RNGoddity, **eVectors** are used daily to:
 
 ## 🪞 Philosophy — Controlled Randomness  
 <div align="right">
-> *“The dice fall where they may — and may serendipity catch your gaze.”*  
+> *“The dice fall where they may — and may serendipity catch your gaze.”*
+  <br>
 > — RNGoddity  
 </div>
 
