@@ -32,6 +32,29 @@ We build modular frameworks, painterly game worlds, and local-first tools — al
 
 ---
 
+
+<div align="center">
+  <br><br>
+  <table>
+    <tr></tr>
+      <tr>
+      <td align="center" width="80%">
+        <p><em style="font-size:1.1em;">“ Randomness here isn’t chaos; it’s collaboration. ”</em></p>
+  </td>
+      <tr>
+          <td align="right" width="80%">
+        <p><em style="font-size:0.7em;">— RNGoddity</em></p>
+          </td>
+    </tr>
+  </table>
+  <br><br>
+</div>
+
+
+  
+
+---
+
 ## 🧠 The eVector Framework  
 
 **eVector** (*Electronic Vector*) is our term for directed digital agents — structured AI assistants that act like intelligent pair-programmers, editors, or design collaborators.  
@@ -47,16 +70,13 @@ At RNGoddity, **eVectors** are used daily to:
 
 ---
 
-## 🪞 Philosophy — Controlled Randomness  
-
-
 <div align="center">
   <br><br>
   <table>
     <tr></tr>
       <tr>
       <td align="center" width="80%">
-        <p><em style="font-size:1.1em;">“The dice fall where they may — and may serendipity catch your gaze.”</em></p>
+        <p><em style="font-size:1.1em;">“ The dice fall where they may — and may serendipity catch your gaze. ”</em></p>
   </td>
       <tr>
           <td align="right" width="80%">
@@ -67,11 +87,7 @@ At RNGoddity, **eVectors** are used daily to:
   <br><br>
 </div>
 
-
-
-Randomness here isn’t chaos; it’s collaboration.  
-The systems roll the dice — but meaning only appears when **...AHA!**
-
+ 
 
 ---
 
@@ -100,6 +116,23 @@ The systems roll the dice — but meaning only appears when **...AHA!**
 </div>
 
 
+---
+<div align="center">
+  <br><br>
+  <table>
+    <tr></tr>
+      <tr>
+      <td align="center" width="80%">
+        <p><em style="font-size:1.1em;">“ The systems roll the dice — but meaning only appears when **...AHA!** ”</em></p>
+  </td>
+      <tr>
+          <td align="right" width="80%">
+        <p><em style="font-size:0.7em;">— RNGoddity</em></p>
+          </td>
+    </tr>
+  </table>
+  <br><br>
+</div>
 ---
 
 ## 📚 Writing & Research *(coming soon)*  
