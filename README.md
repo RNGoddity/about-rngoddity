@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎲 RNGoddity  
+# RNGoddity  
 
 **Controlled Randomness through Art, Code, and Systems**
 
@@ -12,9 +12,9 @@
 
 ## 🎨 About  
 
-**RNGoddity** is a one-dev microstudio exploring the edge where structure meets chance.  
+**RNGoddity** is a microstudio exploring the edge where structure meets chance.  
 
-We build modular frameworks, painterly game worlds, and local-first tools — always on the cusp of discovery, always asking what happens when systems start to *feel*.  
+We build modular frameworks, painterly game worlds, and local-first tools — always on the cusp of potential. 
 
 ---
 
@@ -56,7 +56,7 @@ The systems roll the dice — but meaning only appears when **...AHA!**
 
 ## 🧱 Frameworks at a Glance  
 
-<div align="center">
+<div align="left">
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ The systems roll the dice — but meaning only appears when **...AHA!**
 
 ---
 
-<div align="center">
+<div align="left">
 
 ☕ Made with curiosity, coffee, and carefully constrained chaos.  
 ★ *Star if you believe rules and miracles can coexist.*  
