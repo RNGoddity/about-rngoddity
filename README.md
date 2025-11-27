@@ -124,7 +124,7 @@ At RNGoddity, **eVectors** are used daily to:
     <tr></tr>
       <tr>
       <td align="center" width="80%">
-        <p><em style="font-size:1.1em;">“ The systems roll the dice — but meaning only appears when **...AHA!** ”</em></p>
+        <p><em style="font-size:1.1em;">“ The systems roll the dice — but meaning only appears when #...AHA!# ”</em></p>
   </td>
       <tr>
           <td align="right" width="80%">
