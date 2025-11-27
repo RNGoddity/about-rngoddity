@@ -117,6 +117,7 @@ At RNGoddity, **eVectors** are used daily to:
 
 
 ---
+
 <div align="center">
   <br><br>
   <table>
@@ -133,6 +134,7 @@ At RNGoddity, **eVectors** are used daily to:
   </table>
   <br><br>
 </div>
+
 ---
 
 ## 📚 Writing & Research *(coming soon)*  
